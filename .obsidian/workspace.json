@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "1eb6e93406b02ba7",
+            "id": "701d876f53bc9f18",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e13f65b6c4ff2796",
+  "active": "655c3d871e000861",
   "lastOpenFiles": [
+    "ksr.drawio",
     "Pasted image 20240715205853.png",
     "Архитектура.md",
     "src/Market.png",
